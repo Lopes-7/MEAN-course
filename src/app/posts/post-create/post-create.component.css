@@ -3,10 +3,19 @@ textarea {
   width: 100%;
 
 }
- mat-spinner {
+mat-spinner {
    margin: auto;
- }
+}
 
- input[type="file"] {
+input[type="file"] {
    visibility: hidden;
- }
+}
+
+.image-preview{
+   height: 5ren;
+   margin: 1ren 0;
+}
+
+.image-preview img {
+  height: 100%;
+}
